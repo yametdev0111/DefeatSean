@@ -156,6 +156,7 @@ export default function Home() {
                   src={item[0]}
                   width={70}
                   height={70}
+                  alt="Image"
                   className="w-auto h-auto"
                 />
                 <p className="text-text-primary mt-2">{item[1]}</p>

@@ -8,6 +8,7 @@ export default function Header() {
       <div className="max-w-screen-xl flex lg:flex-row items-center justify-between mx-auto p-4 w-full">
         <Image
           src="/logo.webp"
+          alt="Logo"
           width={231}
           height={58}
           className="mr-3 w-auto h-auto"
