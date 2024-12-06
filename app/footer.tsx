@@ -24,10 +24,10 @@ export default function Footer() {
           PAY SECURELY WITH
         </p>
         <div className="flex flex-row space-x-1 items-center justify-center">
-          <Image src={"/visa-icon.svg"} width={72} height={72} />
-          <Image src={"/discover-icon.svg"} width={72} height={72} />
-          <Image src={"/mastercard-icon.svg"} width={72} height={72} />
-          <Image src={"/paypal-icon.svg"} width={72} height={72} />
+          <Image src="/visa-icon.svg" width={72} height={72} alt="" />
+          <Image src="/discover-icon.svg" width={72} height={72} alt="" />
+          <Image src="/mastercard-icon.svg" width={72} height={72} alt="" />
+          <Image src="/paypal-icon.svg" width={72} height={72} alt="" />
         </div>
       </div>
     </footer>
